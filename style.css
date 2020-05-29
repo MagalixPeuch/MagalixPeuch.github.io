@@ -1,0 +1,128 @@
+
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;      
+}
+
+.encadre {border-width:1px;
+  border-style:dotted;
+  border-color:#0f0f46;;
+  border-radius: 2%;
+  padding-left: 10px;}
+
+#img{
+  WIDTH:200px;       
+  display: block;     
+  margin-left: auto;  
+  margin-right: auto; 
+  border-radius: 3%}  
+
+#colonne1{
+  float: left;
+  padding:10px;                                                      
+
+  background-color: #04043d80;                                    
+  width:300px;                                                      
+  border-width:1px;                                                
+  border-style:dotted;                                           
+  border-color:#1a1a75ef;                                     
+  border-radius: 2%;                                           
+   }
+
+  .contactinfo{
+    font-weight: bold;                                               
+  }
+
+  .contactinfo1{  
+    color: aliceblue;                                             
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+#colonne2{margin-left: 330px ;
+  padding:10px;
+}
+
+header{text-align: center;}
+
+#nom{margin-block-start: 1em;
+  font-size: 3em}
+
+#titre{margin-block-end: 2em;}
+
+p,h1 {color:#1a1a75ef;}
+
+h1,h2{text-align: center;}
+
+.poste{margin-block-end: 0em;}
+
+.location{font-weight: bold;
+  margin-block-start: 0em;}
+
+.area, .software, .mission,.list{color:black;
+  font-size: 14px;}
+
+.area{margin-block-end: 0em}
+.software{margin-block-start: 0em}
+.mission{color:black;
+  font-weight: bold;}
+
+.conclusions{font-weight: bold;
+  font-style: italic;
+    margin-block-start: 0.5em;
+    margin-block-end: 0em;}
+
+.Tableau{color:#1a1a75ef;
+  padding-left: 10px;
+}
+
+.Tableau1{color:#1a1a75ef;
+  padding-left: 50px;
+}
+
+.FirstRaw{font-weight: bold;
+padding-left: 10px;
+}
+
+.SecRaw, .ThirRaw{font-size: 14px;
+  padding-left: 50px;
+}
+
+#othersoftware{font-size: 14px}
+
+
+.autotraining{color:black; 
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-size: 16px}
+
+.conclusions1{font-weight: bold;
+    font-style: italic;
+      margin-block-start: 0em;
+      margin-block-end: 0.5em;
+      font-size: 16px}
+
+.diplome{margin-block-end: 0em;font-size: 16px}
+
+.location1{font-size: 14px;
+  font-weight: bold;
+  margin-block-start: 0em;}
+
+  #contact{color:black;
+    font-weight: bold;
+    font-size: 16px;
+    margin-block-end: 0em;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+ 
+
+
